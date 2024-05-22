@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_favorit"
+        android:title="Favorit" />
+    <item
+        android:id="@+id/menu_pengaturan"
+        android:title="Pengaturan" />
+
+</menu>
